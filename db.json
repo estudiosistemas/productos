@@ -1,0 +1,24 @@
+{
+  "libros": [
+    {
+      "nombre": "Aprendiendo Redux Hooks",
+      "precio": "80",
+      "id": 1
+    },
+    {
+      "nombre": "React Redux Hooks",
+      "precio": "40",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Los Padecientes 2",
+      "precio": "560"
+    },
+    {
+      "id": 4,
+      "nombre": "Los Padecientes",
+      "precio": "580"
+    }
+  ]
+}
